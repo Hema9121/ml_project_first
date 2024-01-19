@@ -2,5 +2,5 @@
 
 # my first ml project
 
-[1.repo:](https://github.com/Hema9121/ml_project_first)
+[1. repo](https://github.com/Hema9121/ml_project_first)
 
